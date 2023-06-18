@@ -1,0 +1,15 @@
+C:\Users\Zif\Desktop\C#\DZ_9\bin\Debug\net6.0\DZ_9.exe
+C:\Users\Zif\Desktop\C#\DZ_9\bin\Debug\net6.0\DZ_9.deps.json
+C:\Users\Zif\Desktop\C#\DZ_9\bin\Debug\net6.0\DZ_9.runtimeconfig.json
+C:\Users\Zif\Desktop\C#\DZ_9\bin\Debug\net6.0\DZ_9.dll
+C:\Users\Zif\Desktop\C#\DZ_9\bin\Debug\net6.0\DZ_9.pdb
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.csproj.AssemblyReference.cache
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.AssemblyInfoInputs.cache
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.AssemblyInfo.cs
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.csproj.CoreCompileInputs.cache
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.dll
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\refint\DZ_9.dll
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.pdb
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\DZ_9.genruntimeconfig.cache
+C:\Users\Zif\Desktop\C#\DZ_9\obj\Debug\net6.0\ref\DZ_9.dll
